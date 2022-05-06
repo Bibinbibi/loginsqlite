@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvEmail1" type="id" />
+    <item name="courseimgDet" type="id" />
+    <item name="courseModeDet" type="id" />
+    <item name="courseTracksDet" type="id" />
+    <item name="courseNameDet" type="id" />
+    <item name="cardViewDet" type="id" />
+</resources>
